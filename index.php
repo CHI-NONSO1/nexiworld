@@ -5,12 +5,12 @@
   <title>My Portfolio</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="custom/home.css">
-  <link rel="stylesheet" href="custom/inner__left.css">
-  <link rel="stylesheet" href="custom/inner2.css">
-  <link rel="stylesheet" href="custom/inner3.css">
-  <script src="jss/home.js" defer></script>
-  <script type="text/javascript" src="jss/submit_form.js" defer></script>
+  <link rel="stylesheet" href="home.css">
+  <link rel="stylesheet" href="inner__left.css">
+  <link rel="stylesheet" href="inner2.css">
+  <link rel="stylesheet" href="inner3.css">
+  <script src="home.js" defer></script>
+  <script type="text/javascript" src="submit_form.js" defer></script>
 </head>
 
 <body>
@@ -34,7 +34,7 @@
 
   <div class="container__left">
     <div class="img__parent">
-      <img class="img" src="image/chinonso.jpeg" alt="image">
+      <img class="img" src="chinonso.jpeg" alt="image">
     </div>
   </div>
   <!-- <div class="kl">
@@ -219,18 +219,18 @@
     <div class="site_policy_social-parent">
       <div class="fb_connect">
         <svg class='social_icon'>
-          <use xlink:href='image/sprite.svg#icon-facebook'></use>
+          <use xlink:href='sprite.svg#icon-facebook'></use>
         </svg>
       </div>
       <div class="twitter_connect">
         <svg class='social_icon'>
-          <use xlink:href='image/sprite.svg#icon-twitter'></use>
+          <use xlink:href='sprite.svg#icon-twitter'></use>
         </svg>
       </div>
       <div class="whatsapp_connect">
         <a href="https://wa.me/message/Q5U5MFFUW6NVO1">
           <svg class='social_icon'>
-            <use xlink:href='image/sprite.svg#icon-whatsapp'></use>
+            <use xlink:href='sprite.svg#icon-whatsapp'></use>
           </svg>
         </a>
       </div>
