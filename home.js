@@ -103,7 +103,8 @@ function myFunction(viewStat) {
     var innerContainerLeft1 = document.querySelector(
       ".container__inner1__left"
     );
-    var InnerRight1 = document.querySelector(".container__inner1__right");
+    var InnerRight1 = document.querySelector(".container__behave__right");
+  
     var containerInner2Left = document.querySelector(
       ".container__inner2__left"
     );
@@ -153,7 +154,7 @@ function myFunction(viewStat) {
     `
       );
     }
-
+    
     InnerRight1.addEventListener("click", openThird);
     function openThird() {
       InnerRight1.setAttribute(

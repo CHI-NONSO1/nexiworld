@@ -13,14 +13,14 @@
   width: 90%;
   height: 100%;
   margin-left:10%;
-  background:#fff;
+  background: chocolate;
 
 }
 .inner__right2{
   width: 90%;
   height: 100%;
   margin-right:10%;
-  background:#fff;
+  background: chocolate;
 }
 @media screen and (max-width:375px) {
   .inner__right2,.inner__left2{

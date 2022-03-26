@@ -510,7 +510,6 @@ textarea:placeholder-shown + .form__label {
   transition: all 3s linear;
   cursor: pointer;
 }
-
 @media screen and (max-width: 375px) {
   .container__inner1__left {
     width: 100%;
@@ -520,8 +519,8 @@ textarea:placeholder-shown + .form__label {
     transition: all 3s linear;
   }
 }
-.container__inner1__right {
-  width: 50%;
+.container__behave__right{
+  width: 51%;
   height: 100%;
   position: absolute;
   top: 0;
@@ -529,32 +528,20 @@ textarea:placeholder-shown + .form__label {
   z-index: 190;
   background: gray;
   transition: all 3s linear;
+  cursor: pointer;
+}
+@media screen and (max-width: 375px) {
+  .container__behave__right {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 192;
+    transition: all 3s linear;
+  }
 }
 
-/* @media screen and (max-width: 375px) {
-  .container__inner1__right {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    z-index: 192;
-    transition: all 3s linear;
-  }
-} */
-
-/* @media screen and (max-width: 375px) {
-  .container__inner1__right {
-    width: 100%;
-    height: 100%;
-    z-index: 192;
-    position: absolute;
-    top: 0;
-    left: 0;
-    transition: all 3s linear;
-  }
-} */
-
 .container__inner2__left {
-  width: 50%;
+  width: 51%;
   height: 100%;
   position: absolute;
   top: 0;
@@ -625,7 +612,7 @@ textarea:placeholder-shown + .form__label {
   }
 }
 .container__inner3__right {
-  width: 50%;
+  width: 51%;
   height: 100%;
   position: absolute;
   top: 0;

@@ -112,15 +112,12 @@
       <p class="bio__flex"><span>DISABILITY:</span> <span>Non</span></p>
       <p class="bio__flex"><span>RELIGION:</span> <span>Christianity</span></p>
       <p class="bio__flex"><span>NATIONALITY:</span> <span>Nigeria</span></p>
-
-
-
-
     </div>
 
   </div>
-  <div class="container__inner1__right">
-    <div class="inner__right">
+
+  <div class="container__behave__right">
+    <div class="inner__behave">
       <h2>
         <p class="sub_header-EB">EDUCATIONAL BACKGROUND:</p>
       </h2>
@@ -128,8 +125,8 @@
       <p>The Association of Accountancy Bodies of West Africa. (Member) 2011.</p>
       <p>Institute Of Chartered Accountant of Nigeria (ICAN) (Professional Accountant in View).</p>
       <p>E-Accountants & Associates, Lagos State. 2012.</p>
-      <p>Father Ogbonna Memorial Comprehensive College Okpatu, Enugu State. 2000 -2006.</p>
-      <p>Central School Okpatu, Enugu State. 1995 – 2000.</p>
+      <p>Father Ogbonna Memorial Comprehensive College Okpatu, Enugu State. 2000 - 2006.</p>
+      <p>Central School Okpatu, Enugu State. 1995 - 2000.</p>
       <h2>
         <p class="sub_header">QUALIFICATION:</p>
       </h2>
@@ -149,8 +146,8 @@
       </h2>
       <p>What Worth Doing, Is Worth Doing With Passion.</p>
     </div>
-
   </div>
+
   <div class="container__inner2__left">
     <div class="inner__left2">
       <h2>
@@ -183,7 +180,7 @@
       <h2>
         <p class="sub_header__PH">SOFTWARE DEVELOPMENT PROJECTS: </p>
       </h2>
-      <p>MY PORTFOLIO: <a href="www.NexiWorld.com">NexiWorld.com</a></p>
+      <p>MY PORTFOLIO: <a href="https://nexiworld.herokuapp.com/">NexiWorld.com</a></p>
       <p>Developed With:</p>
       <p>JavaScritp</p>
       <p>HTML</p>
@@ -191,7 +188,8 @@
       <p>PHP: For Backend</p>
       <p>MYSQL: For Backend Data Storage.</p>
 
-      <p class="proj">IZUGODELECTRONICS: <a href="www.IzuGodElectronics.com">IzuGodElectronics.biz</a></p>
+      <p class="proj">IZUGODELECTRONICS: <a href="www.IzuGodElectronics.com">IzuGodElectronics.com</a></p>
+      <p>Not yet hosted though</p>
       <p>Developed With:</p>
       <p>JavaScritp</p>
       <p>HTML</p>
