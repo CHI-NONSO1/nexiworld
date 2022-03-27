@@ -154,7 +154,7 @@ function myFunction(viewStat) {
     `
       );
     }
-    
+    var InnerRight1 = document.querySelector(".container__behave__right");
     InnerRight1.addEventListener("click", openThird);
     function openThird() {
       InnerRight1.setAttribute(
