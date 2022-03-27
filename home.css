@@ -251,10 +251,10 @@ body {
 
 .container__left {
   position: absolute;
-  top: 10%;
+  top: 9.5%;
   left: 5%;
   width: 44.9%;
-  height: 80%;
+  height: 85%;
   background-image: linear-gradient(
     to right top,
     rgb(76, 0, 130),
@@ -310,10 +310,10 @@ body {
 }
 .container__right {
   position: absolute;
-  top: 10%;
+  top: 9.5%;
   right: 5%;
   width: 45.08%;
-  height: 80%;
+  height: 85%;
   background-image: linear-gradient(
     to left top,
     rgb(76, 0, 130),
