@@ -10,12 +10,12 @@ function sendForm(event){
     var fName = fulName.value;
     if(fName === ''){
       var name__err = document.querySelector('.name__err');
-      name__err.innerText = 'Enter Full Name!';
+      name__err.style.color = 'red';
       var fulName = document.querySelector('#name__label');
       fulName.addEventListener('keypress',clearErrorText)
       function clearErrorText(event){
         var name__err = document.querySelector('.name__err');
-        name__err.style.display = 'none';
+        name__err.style.color = 'transparent';
       }
       return
     }
@@ -23,13 +23,13 @@ function sendForm(event){
     var emailA = emailAd.value;
     if(emailA === ''){
       var email__err = document.querySelector('.email__err');
-      email__err.innerText = 'Enter Email!';
+      email__err.style.color = 'red';
 
       var emailAd = document.querySelector('#email__label');
       emailAd.addEventListener('keypress',clearError)
       function clearError(event){
         var email__err = document.querySelector('.email__err');
-        email__err.style.display = 'none';
+        email__err.style.color = 'transparent';
       }
     return
     }
@@ -37,13 +37,13 @@ function sendForm(event){
     var mbody = msgbody.value;
     if(mbody === ''){
       var message__err = document.querySelector('.message__err');
-      message__err.innerText = 'Enter Message!';
+      message__err.style.color = 'red';
 
       var msgbody = document.querySelector('#message__label');
       msgbody.addEventListener('keypress',clear)
       function clear(event){
         var message__err = document.querySelector('.message__err');
-        message__err.style.display = 'none';
+        message__err.style.color = 'transparent';
       }
     return
     }

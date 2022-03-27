@@ -50,7 +50,7 @@
 
         <div class="form__control">
           <div class="err__parent">
-            <span class="name__err"></span>
+            <span class="name__err">Enter Full Name!</span>
           </div>
           <div class="name__parent">
             <input type="text" class="name" id="name__label" required placeholder="Your Name" value="" />
@@ -60,7 +60,7 @@
 
         <div class="form__control">
           <div class="err__parent">
-            <span class="email__err"></span>
+            <span class="email__err">Enter Email!</span>
           </div>
           <div class="email__parent">
             <input type="email" class="email" id="email__label" placeholder="Your Email" value="" required />
@@ -70,7 +70,7 @@
 
         <div class="form__control">
           <div class="err__parent">
-            <span class="message__err"></span>
+            <span class="message__err">Enter Message</span>
           </div>
           <div class="message__parent">
             <textarea name="message" form="contact" id="message__label" required placeholder="Write Your Message Here" value=""></textarea>
