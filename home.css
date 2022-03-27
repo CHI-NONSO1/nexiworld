@@ -466,7 +466,7 @@ body {
 .name__err {
   width: 30%;
   height: 5%;
-  color: red;
+  color: transparent;
   font-size: 110%;
   font-weight: 300;
 }
