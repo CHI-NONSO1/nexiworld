@@ -199,7 +199,7 @@
       <p>An Online Shopping Site For All Kinds of Electronics Dealings.</p>
 
       <p class="proj">Next PROJECT: ?</p>
-      <p>I am currently learning C programming language and my next project will include C.</p>
+      <p>I am currently learning Julia programming language and my next project will include Julia </p>
     </div>
 
   </div>
