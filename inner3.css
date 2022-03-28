@@ -37,3 +37,18 @@
     margin: 0 auto;
   }
 }
+.blogpost{
+font-size:120%;
+font-weight:600;
+color:#fff;
+}
+
+@media screen and (max-width: 375px) {
+  
+.blogpost{
+font-size:120%;
+font-weight:600;
+color:#fff;
+}
+
+}
