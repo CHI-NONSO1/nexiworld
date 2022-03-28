@@ -206,6 +206,10 @@
   <div class="container__inner3__left">
     <div class="inner__left3">
 
+<h1>
+<p class = "blogpost">Blog coming soon . . .</p>
+
+</h1>
     </div>
   </div>
   <div class="container__inner3__right">
