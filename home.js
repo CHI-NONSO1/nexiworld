@@ -9,7 +9,7 @@ function myFunction2(viewSta) {
       ".container__inner1__left"
     );
     var container__inner1__right = document.querySelector(
-      ".container__inner1__right"
+      ".container__behave__right"
     );
     var container__inner2__left = document.querySelector(
       ".container__inner2__left"
