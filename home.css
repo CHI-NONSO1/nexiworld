@@ -70,6 +70,14 @@ body {
   z-index: 200;
 }
 
+@media screen and (max-width: 375px) {
+  .container__header {
+  position: absolute;
+  top: -10.8%;
+
+}
+}
+
 /*****************/
 .heading-primary {
   text-transform: uppercase;
