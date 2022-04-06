@@ -198,7 +198,7 @@
       <p>MYSQL: For Backend Data Storage.</p>
       <p>An Online Shopping Site For All Kinds of Electronics Dealings.</p>
       
-       <p class="proj">Neixworld Tesla-Clone: <a href="https://neixworld-tesla-clone.web.app/">My Tesla Clone</a></p>
+       <p class="proj">Nexiworld Tesla-Clone: <a href="https://neixworld-tesla-clone.web.app/">My Tesla Clone</a></p>
       <p>Cloned with:</p>
       <p>React.js</p>
       <p>React redux</p>
