@@ -46,6 +46,7 @@ body {
   #submit {
     width: 40%;
     height: 10%;
+    border-radius: 2%;
   }
 }
 #submit:hover {
@@ -262,7 +263,7 @@ body {
   position: absolute;
   top: 9.5%;
   left: 5%;
-  width: 44.9%;
+  width: 45%;
   height: 85%;
   background-image: linear-gradient(
     to right top,
