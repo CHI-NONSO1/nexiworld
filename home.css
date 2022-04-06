@@ -74,6 +74,7 @@ body {
   .container__header {
   position: absolute;
   top: -10.8%;
+    height: 10%;
 
 }
 }
