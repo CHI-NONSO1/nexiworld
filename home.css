@@ -671,7 +671,7 @@ textarea:placeholder-shown + .form__label {
   justify-content: space-around;
   align-items: center;
   padding: 1%;
-  border-bottom: 0.1rem solid #fff;
+  border-bottom: 0.1rem solid indigo;
   box-shadow: 0 10px 50px rgb(38, 5, 61);
 }
 @media screen and (max-width: 375px) {
