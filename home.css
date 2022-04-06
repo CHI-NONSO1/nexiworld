@@ -298,7 +298,7 @@ body {
 
 .img__parent {
   width: 20%;
-  height: 25%;
+  height: 20%;
   cursor: pointer;
 }
 @media screen and (max-width: 820px) {
