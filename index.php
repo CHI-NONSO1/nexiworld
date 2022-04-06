@@ -197,6 +197,14 @@
       <p>PHP: For Backend</p>
       <p>MYSQL: For Backend Data Storage.</p>
       <p>An Online Shopping Site For All Kinds of Electronics Dealings.</p>
+      
+       <p class="proj">Neixworld Tesla-Clone: <a href="https://neixworld-tesla-clone.web.app/">My Tesla Clone</a></p>
+      <p>Cloned with:</p>
+      <p>React.js</p>
+      <p>React redux</p>
+      
+     
+     
 
       <p class="proj">Next PROJECT: ?</p>
       <p>I am currently learning Julia programming language and my next project will include Julia </p>
