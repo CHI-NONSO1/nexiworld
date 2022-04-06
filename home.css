@@ -73,7 +73,7 @@ body {
 @media screen and (max-width: 375px) {
   .container__header {
   position: absolute;
-  top: -10.8%;
+  top: -11%;
   height: 10%;
 
 }
