@@ -33,6 +33,11 @@
   </div>
 
   <div class="container__left">
+    <div class="pointer_arow">
+      <svg class='direction_icon-home'>
+        <use xlink:href='spritee.svg#icon-cheveron-down'></use>
+      </svg>
+    </div>
     <div class="img__parent">
       <img class="img" src="chinonso.jpeg" alt="image">
     </div>
@@ -87,6 +92,10 @@
 
   <div class="container__inner1__left">
     <div class="inner__left">
+
+      <svg class='direction_icon-left1'>
+        <use xlink:href='spritee.svg#icon-cheveron-left'></use>
+      </svg>
       <div class="headingInner__parent">
         <h1 class="cv_heading">CURRICULLUM VITAE</h1>
       </div>
@@ -112,12 +121,21 @@
       <p class="bio__flex"><span>DISABILITY:</span> <span>Non</span></p>
       <p class="bio__flex"><span>RELIGION:</span> <span>Christianity</span></p>
       <p class="bio__flex"><span>NATIONALITY:</span> <span>Nigeria</span></p>
+
+
+      <svg class='direction_icon__right-small1'>
+        <use xlink:href='spritee.svg#icon-cheveron-right'></use>
+      </svg>
     </div>
 
   </div>
 
   <div class="container__behave__right">
     <div class="inner__behave">
+
+      <svg class='direction_icon__left-small1'>
+        <use xlink:href='spritee.svg#icon-cheveron-left'></use>
+      </svg>
       <h2>
         <p class="sub_header-EB">EDUCATIONAL BACKGROUND:</p>
       </h2>
@@ -145,11 +163,20 @@
         <p class="sub_header"> MOTTO:</p>
       </h2>
       <p>What Worth Doing, Is Worth Doing With Passion.</p>
+
+
+
+      <svg class='direction_icon-right1'>
+        <use xlink:href='spritee.svg#icon-cheveron-right'></use>
+      </svg>
     </div>
   </div>
 
   <div class="container__inner2__left">
     <div class="inner__left2">
+      <svg class='direction_icon-left2'>
+        <use xlink:href='spritee.svg#icon-cheveron-left'></use>
+      </svg>
       <h2>
         <p class="sub_header__PH">Philosophy: </p>
       </h2>
@@ -172,11 +199,19 @@
       <p>Block 11, flat B, Kontagora Estate Isheri Olofin,</p>
       <p>Lagos.</p>
       <p><span> Tele: </span> 08028307909</p>
+
+      <svg class='direction_icon__right-small3'>
+        <use xlink:href='spritee.svg#icon-cheveron-right'></use>
+      </svg>
     </div>
 
   </div>
   <div class="container__inner2__right">
     <div class="inner__right2">
+
+      <svg class='direction_icon__left-small2'>
+        <use xlink:href='spritee.svg#icon-cheveron-left'></use>
+      </svg>
       <h2>
         <p class="sub_header__PH">SOFTWARE DEVELOPMENT PROJECTS: </p>
       </h2>
@@ -197,32 +232,43 @@
       <p>PHP: For Backend</p>
       <p>MYSQL: For Backend Data Storage.</p>
       <p>An Online Shopping Site For All Kinds of Electronics Dealings.</p>
-      
-       <p class="proj">Nexiworld Tesla-Clone: <a href="https://neixworld-tesla-clone.web.app/">My Tesla Clone</a></p>
+
+      <p class="proj">Nexiworld Tesla-Clone: <a href="https://neixworld-tesla-clone.web.app/">My Tesla Clone</a></p>
       <p>Cloned with:</p>
       <p>React.js</p>
       <p>React redux</p>
-      
-     
-     
+
+
+
 
       <p class="proj">Next PROJECT: ?</p>
       <p>I am currently learning Julia programming language and my next project will include Julia </p>
+
+
+
+      <svg class='direction_icon-right2'>
+        <use xlink:href='spritee.svg#icon-cheveron-right'></use>
+      </svg>
     </div>
 
   </div>
   <div class="container__inner3__left">
     <div class="inner__left3">
+      <svg class='direction_icon-left3'>
+        <use xlink:href='spritee.svg#icon-cheveron-left'></use>
+      </svg>
 
-<h1>
-<p class = "blogpost">Blog coming soon . . .</p>
+      <h1>
+        <p class="blogpost"></p>
 
-</h1>
+      </h1>
     </div>
   </div>
   <div class="container__inner3__right">
     <div class="inner__right3">
-
+      <!-- <svg class='direction_icon-right3'>
+        <use xlink:href='spritee.svg#icon-cheveron-right'></use>
+      </svg> -->
     </div>
   </div>
   <footer class="footer__main">
