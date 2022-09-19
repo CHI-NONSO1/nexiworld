@@ -200,7 +200,7 @@
             <p class="sub_header__PH">SKILLS</p>
           </h2>
           <p>HTML, CSS, JavaScript</p>
-          <p>ReactJS, ExpressJS, Laravel, GenieJL, StippleJL,DashJL</p>
+          <p>ReactJS, React-redux,ExpressJS, Laravel, GenieJL, StippleJL,DashJL</p>
           <p>NodeJS, PHP, Julia</p>
           <p> MYSQL</p>
           <p>Sequelize</p>
